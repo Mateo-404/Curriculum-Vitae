@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Mateo Gariboglio",
+    "email": "",
+    "phone": "",
+    "location": {
+      "city": "Rafaela",
+      "region": "Santa Fe",
+      "country": "Argentina"
+    },
+    "url": "https://mateogariboglio.is-a.dev",
+    "summary": "Soy Mateo, desarrollador backend con experiencia en Java, Spring Boot y desarrollo web. Actualmente estoy finalizando mi carrera en UTN y busco oportunidades para seguir creciendo profesionalmente.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Mateo-404",
+        "url": "https://github.com/Mateo-404"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mateo Gariboglio",
+        "url": "https://www.linkedin.com/in/mateo-gariboglio"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Winkelmann S.R.L",
+      "position": "Desarrollador de software",
+      "location": "Híbrido",
+      "startDate": "2025-02",
+      "endDate": "2025-04",
+      "summary": "<p>Como desarrollador independiente para Winkelmann S.R.L., analicé requerimientos y diseñé un sistema de gestión interna. Implementé el backend con Spring Boot, parte del frontend con Astro, y utilicé PostgreSQL. Ante limitaciones de tiempo, propuse una alternativa con Access. La experiencia me permitió aplicar conocimientos fullstack y trato con clientes reales.</p>",
+      "url": "https://www.wkmsrl.com/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional FRRa",
+      "area": "Programación",
+      "studyType": "Tecnicatura",
+      "startDate": "2023-03",
+      "endDate": null,
+      "summary": "<p>Me encuentro próximo a finalizar la carrera, la cual posee un enfoque práctico y está orientada al contexto tecnológico actual. Durante la misma, adquirí sólidos conocimientos en programación, metodologías ágiles, gestión y análisis, que aplico en proyectos integrales con el objetivo de continuar mi desarrollo profesional.</p>",
+      "url": "http://ww8.frra.utn.edu.ar/sitio/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Consecionaria",
+      "description": "Sistema de gestión de una concesionaria en Java, con operaciones CRUD sobre vehículos usando JPA, patrón MVC y catálogo online.",
+      "url": "https://github.com/Mateo-404/Consecionaria_JPA",
+      "keywords": [
+        "Java",
+        "JPA",
+        "CRUD",
+        "Modelo-Vista-Controlador (MVC)",
+        "Arquitectura en capas",
+        "Persistencia de datos",
+        "Interfaz gráfica",
+        "Base de datos",
+        "Desarrollo de software",
+        "Programación orientada a objetos (POO)",
+        "Java Swing"
+      ],
+      "startDate": "2024-04",
+      "endDate": "2024-07",
+      "summary": "<p>Este proyecto consiste en un sistema de gestión para una concesionaria de autos, desarrollado en Java. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre los vehículos utilizando JPA para la persistencia de datos. La clase principal, <em>Automóvil</em>, fue modelada con los atributos: id, modelo, marca, color y patente. El sistema también publica los autos en un catálogo online (base de datos), accesible para su visualización y administración. Se implementó siguiendo el modelo de arquitectura en capas (Modelo-Vista-Controlador), separando claramente la lógica de negocio, la interfaz gráfica y el acceso a datos. Este proyecto representó un desafío técnico y una valiosa experiencia de aprendizaje.</p>"
+    },
+    {
+      "name": "Jockey Club Rafaela",
+      "description": "Desarrollé un sitio web para Jockey Club Rafaela, con secciones como Home, Noticias, Asociarse, Fotos y Contacto, usando HTML5, CSS, JavaScript y Bootstrap.",
+      "url": "https://mateo-404.github.io/Jockey-Club-Rafaela/",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "desarrollo frontend",
+        "sitio web",
+        "diseño responsivo",
+        "formulario web",
+        "interactividad"
+      ],
+      "startDate": "2024-04",
+      "endDate": "2024-07",
+      "summary": "<p>Me encargué de crear un sitio web para Jockey Club Rafaela con el propósito de practicar y mejorar mis habilidades en frontend. El sitio incluye secciones clave como página principal, noticias, formulario para asociarse, galería de fotos y contacto. Para su desarrollo, utilicé tecnologías como HTML5 para la estructura, CSS para el diseño visual, JavaScript para la interactividad y Bootstrap para la maquetación responsiva. El proyecto fue finalizado con éxito, consolidando mis conocimientos en desarrollo web.</p>"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Foundational C# with Microsoft",
+      "date": "Agosto 2024",
+      "issuer": "freeCodeCamp ",
+      "url": "https://www.freecodecamp.org/certification/Mateo-404/foundational-c-sharp-with-microsoft"
+    },
+    {
+      "name": "Curso de Introducción a las Habilidades Blandas",
+      "date": "Julio 2024",
+      "issuer": "Universidad Blas Pascal",
+      "url": ""
+    },
+    {
+      "name": "Desarrollo de APIs en Java con SpringBoot",
+      "date": "Enero 2024",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/t4y-2/"
+    },
+    {
+      "name": "Introducción a Git y GitHub",
+      "date": "Diciembre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/32s/"
+    },
+    {
+      "name": "Introducción a las Bases de Datos Relacionales",
+      "date": "Noviembre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/eav/"
+    },
+    {
+      "name": "HTML y CSS desde CERO",
+      "date": "Octubre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/certificado-html-y-css-3iq"
+    },
+    {
+      "name": "Java para principiantes",
+      "date": "Octubre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/0yn/"
+    },
+    {
+      "name": "Microsoft Office intermedio",
+      "date": "Febrero 2023",
+      "issuer": "Fundación Telefónica Movistar Argentina",
+      "url": "https://drive.google.com/file/d/1T1zMqSKYSpYj1mBL254Beo1muEnhaB54/view?usp=drivesdk"
+    },
+    {
+      "name": "Primeros pasos del desarrollo frontend",
+      "date": "Febrero 2023",
+      "issuer": "Ticmas ",
+      "url": "https://api.profesional.ticmas.io/v1/certificates-download/d65c5b7f-9816-46db-9081-835f712de902---pdf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Lenguajes de programación",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "HTML5",
+        "CSS",
+        "C#"
+      ]
+    },
+    {
+      "name": "Frameworks y librerías",
+      "keywords": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring Framework",
+        "Bootstrap",
+        "Java Swing",
+        "Astro",
+        "React"
+      ]
+    },
+    {
+      "name": "Bases de datos",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "Microsoft Access",
+        "Bases de datos relacionales"
+      ]
+    },
+    {
+      "name": "Herramientas y tecnologías",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitFlow",
+        "Maven",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook"
+      ]
+    },
+    {
+      "name": "Desarrollo web",
+      "keywords": [
+        "Frontend web",
+        "Diseño responsivo",
+        "Interactividad",
+        "Maquetación",
+        "Formulario web",
+        "Sitios institucionales"
+      ]
+    },
+    {
+      "name": "Arquitectura y patrones",
+      "keywords": [
+        "MVC",
+        "Arquitectura en capas",
+        "POO",
+        "IoC",
+        "DI"
+      ]
+    },
+    {
+      "name": "Otras habilidades",
+      "keywords": [
+        "Análisis de requerimientos",
+        "Scrum",
+        "Gestión de proyectos",
+        "Trabajo en equipo",
+        "Comunicación con clientes",
+        "Resolución de problemas",
+        "Creatividad",
+        "Responsabilidad",
+        "Autodidacta"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ]
+}
