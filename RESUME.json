@@ -85,6 +85,37 @@
       "startDate": "2024-04",
       "endDate": "2024-07",
       "summary": "<p>Me encargué de crear un sitio web para Jockey Club Rafaela con el propósito de practicar y mejorar mis habilidades en frontend. El sitio incluye secciones clave como página principal, noticias, formulario para asociarse, galería de fotos y contacto. Para su desarrollo, utilicé tecnologías como HTML5 para la estructura, CSS para el diseño visual, JavaScript para la interactividad y Bootstrap para la maquetación responsiva. El proyecto fue finalizado con éxito, consolidando mis conocimientos en desarrollo web.</p>"
+    },
+    {
+      "name": "Sistema de Gestión de Barbería",
+      "description": "Proyecto final fullstack: sistema de reservas para barbería con panel administrativo, estadísticas, control de turnos y documentación completa con diagramas UML y E-R.",
+      "url": "https://github.com/Mateo-404/Barberia",
+      "keywords": [
+        "Fullstack",
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "SQL",
+        "REST API",
+        "JavaScript",
+        "HTML5",
+        "CSS",
+        "Bootstrap",
+        "Frontend",
+        "Backend",
+        "Panel administrativo",
+        "Reservas online",
+        "Calendario interactivo",
+        "Estadísticas",
+        "Reportes",
+        "Deploy público",
+        "UML",
+        "Diagramas E-R",
+        "Documentación técnica"
+      ],
+      "startDate": "2025-03",
+      "endDate": "2025-07",
+      "summary": "<p>Proyecto final de la Tecnicatura Universitaria en Programación (UTN - Rafaela). Sistema fullstack para gestionar reservas de barbería: backend en Java con Spring Boot y PostgreSQL, frontend en HTML5, CSS, JavaScript y Bootstrap. Incluye panel administrativo con estadísticas, reportes, calendario interactivo y gestión completa de turnos y clientes. El proyecto cuenta con documentación técnica completa, diagramas UML de clases y casos de uso, así como diagramas E-R de la base de datos. Desplegado públicamente en Railway, integrando frontend y backend de forma funcional. Diseño responsivo, seguro y optimizado para la mejor experiencia de usuario. Este proyecto demuestra habilidades completas de desarrollo fullstack, planificación y documentación profesional de sistemas.</p>"
     }
   ],
   "certificates": [
